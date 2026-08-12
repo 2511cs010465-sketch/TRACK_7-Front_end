@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: medtrack-frontend
+    plan: free
+    buildCommand: ""
+    staticPublishPath: .
